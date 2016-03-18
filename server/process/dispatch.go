@@ -1,7 +1,7 @@
 package main
 
 import (
-	. "../socket"
+	. "demogo/tcpdemo/server/socket"
 	"fmt"
 	"net/http"
 	_ "net/http/pprof"
