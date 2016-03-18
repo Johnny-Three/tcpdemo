@@ -24,5 +24,5 @@ keywords:
 
 ##关于作者
 * 昵称：强尼老三
-* 邮箱：whereshallyoube@gmail.com
+* 邮箱：whereshallyoube@163.com
 * 英文名：Johnny-three
